@@ -46,6 +46,10 @@ public class AcceptTasks extends HttpServlet {
     	return new JSONResponse().createSuccessResponse();
     }
     
+    public void writeAcceptanceTest(){
+    	System.out.println("Performing the acceptance test");
+    }
+    
     
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
