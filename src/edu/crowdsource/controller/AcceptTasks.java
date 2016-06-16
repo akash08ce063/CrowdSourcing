@@ -51,6 +51,9 @@ public class AcceptTasks extends HttpServlet {
     	System.out.println("Perfo This is big change ce test");
 
     	int a = 6;
+
+    	a = a+1;
+    	a = a +2 ;
     }
     
     
