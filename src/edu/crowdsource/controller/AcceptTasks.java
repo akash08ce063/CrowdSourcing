@@ -50,8 +50,13 @@ public class AcceptTasks extends HttpServlet {
     	System.out.println("This is very weired test");
     	System.out.println("Perfo This is big change ce test");
 
-    	int a = 10;
-    	a = a+4;
+
+    	int a = 6;
+
+    	a = a+1;
+    	a = a +2 ;
+
+    	
     }
     
     
